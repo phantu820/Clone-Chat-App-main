@@ -1,7 +1,11 @@
-# Clone-Chat-App
-## For implementation of real time Socket.IO
-This is a full stack MERN clone-chat-app with functionality like authorization, one to one chat, group chat, real time chating by help of Socket.IO
+https://github.com/Canciller/react-native-images-to-pdf?tab=readme-ov-file
 
+https://github.com/ajumal-ashraf-dev/react-native-pdf-to-image/tree/master
 
-https://github.com/sanjeev662/Clone-Chat-App/assets/94432263/1fabcb97-76d9-4b23-bdd4-d0dcbb2bd24b
+https://codesandbox.io/p/sandbox/react-to-pdf-demo-forked-7ysvv4?file=%2Fsrc%2Fhooks%2FuseFileSelection.js%3A9%2C59
 
+https://codesandbox.io/p/sandbox/image-to-pdf-8m762i?file=%2Fpackage.json%3A12%2C30
+
+https://github.com/ShizukuIchi/pdf-editor
+
+https://github.com/subhra74/img2pdf/tree/main
